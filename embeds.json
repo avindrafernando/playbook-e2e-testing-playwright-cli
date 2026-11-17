@@ -1,0 +1,12 @@
+{
+  "STORY-004-Playwright-CLI-Demo": {
+    "title": "STORY-004 Playwright CLI demo (video)",
+    "embed": "https://www.youtube-nocookie.com/embed/gP1szvJeo8g",
+    "link": "https://www.youtube.com/watch?v=gP1szvJeo8g"
+  },
+  "STORY-007-Playwright-CLI-spec-generation-demo": {
+    "title": "STORY-007 Playwright CLI spec generation demo (video)",
+    "embed": "https://www.youtube-nocookie.com/embed/Z_AdUEaJ-gA",
+    "link": "https://www.youtube.com/watch?v=Z_AdUEaJ-gA"
+  }
+}
